@@ -1,0 +1,14 @@
+C:\Users\Wiktor\source\repos\Powtórzenie\Powtórzenie\obj\Debug\net6.0\Powtórzenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\Powtórzenie\Powtórzenie\obj\Debug\net6.0\Powtórzenie.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\Powtórzenie\Powtórzenie\obj\Debug\net6.0\Powtórzenie.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\Powtórzenie\Powtórzenie\obj\Debug\net6.0\Powtórzenie.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\Powtórzenie\Powtórzenie\bin\Debug\net6.0\Powtórzenie.exe
+C:\Users\Wiktor\source\repos\Powtórzenie\Powtórzenie\bin\Debug\net6.0\Powtórzenie.deps.json
+C:\Users\Wiktor\source\repos\Powtórzenie\Powtórzenie\bin\Debug\net6.0\Powtórzenie.runtimeconfig.json
+C:\Users\Wiktor\source\repos\Powtórzenie\Powtórzenie\bin\Debug\net6.0\Powtórzenie.dll
+C:\Users\Wiktor\source\repos\Powtórzenie\Powtórzenie\bin\Debug\net6.0\Powtórzenie.pdb
+C:\Users\Wiktor\source\repos\Powtórzenie\Powtórzenie\obj\Debug\net6.0\Powtórzenie.dll
+C:\Users\Wiktor\source\repos\Powtórzenie\Powtórzenie\obj\Debug\net6.0\refint\Powtórzenie.dll
+C:\Users\Wiktor\source\repos\Powtórzenie\Powtórzenie\obj\Debug\net6.0\Powtórzenie.pdb
+C:\Users\Wiktor\source\repos\Powtórzenie\Powtórzenie\obj\Debug\net6.0\Powtórzenie.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\Powtórzenie\Powtórzenie\obj\Debug\net6.0\ref\Powtórzenie.dll
